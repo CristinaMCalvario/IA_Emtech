@@ -1,0 +1,6 @@
+Intrusion attempt from IP 192.168.1.100
+User login from IP 10.0.0.1
+Intrusion detected at 02:14AM
+System reboot
+Intrusion alert: port scan
+Normal traffic from 172.16.0.5
